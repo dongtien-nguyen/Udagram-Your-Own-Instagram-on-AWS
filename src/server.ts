@@ -45,7 +45,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
         });
       });
     } else {
-      response.status(404).send("Please send the correct image_url");
+      res.status(404).send("Please send the correct image_url");
     }
   });
   //! END @TODO1
