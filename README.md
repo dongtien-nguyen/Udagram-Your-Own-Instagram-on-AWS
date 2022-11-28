@@ -1,5 +1,14 @@
 # Udagram Image Filtering Microservice
 
+## Elastic Beanstalk Application Url
+```
+http://udagram-aws-tien-dev.us-east-1.elasticbeanstalk.com/
+```
+## Evidence
+```
+https://github.com/dongtien-nguyen/Udagram-Your-Own-Instagram-on-AWS/tree/main/deployment_screenshots
+```
+
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
